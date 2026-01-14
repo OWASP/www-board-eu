@@ -1,4 +1,4 @@
-- image: assests/images/maxim_photo.jpg
+- image: https://owasp.org/www-board-eu/assests/images/maxim_photo.jpg
   name:  Maxim Baele
   title:  Member at Large 
   term-ends:
