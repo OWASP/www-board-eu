@@ -1,4 +1,4 @@
-- image: 
+- image: assests/images/maxim_photo.jpg
   name:  Maxim Baele
   title:  Member at Large 
   term-ends:
@@ -10,7 +10,7 @@
   term-ends: 
   location:  Belgium
   description:  >-
-- image: https://github.com/OWASP/owasp.github.io/tree/main/assets/images/people/board_ashwini_siddhi.jpg
+- image: 
   name:  Ashwini Siddhi 
   title: Member at Large
   term-ends:  
