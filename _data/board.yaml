@@ -10,7 +10,7 @@
   term-ends: 
   location:  Belgium
   description:  >-
-- image: assets/images/people/board_ashwini_siddhi.jpg
+- image: https://github.com/OWASP/owasp.github.io/tree/main/assets/images/people/board_ashwini_siddhi.jpg
   name:  Ashwini Siddhi 
   title: Member at Large
   term-ends:  
